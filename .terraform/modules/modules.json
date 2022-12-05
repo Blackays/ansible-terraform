@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"droplet","Source":"registry.terraform.io/terraform-digitalocean-modules/droplet/digitalocean","Version":"1.0.1","Dir":".terraform/modules/droplet"}]}
